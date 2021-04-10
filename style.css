@@ -1,0 +1,7 @@
+nanugiri {
+    transition: transfrom .2s;
+border: 10px solid #AAAAAA
+}
+nanugiri 2 {
+    transform: scale(0.9)
+}
